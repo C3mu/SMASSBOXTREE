@@ -7,4 +7,4 @@ It can adding fertilizer schendule by a DIY tank with servo
 </div>
 more information
 https://drive.google.com/drive/folders/1VLB2EdaFWi1xie-5arPTZWrbdJiX3gG4?usp=sharing
-
+ps: If possible don't try to make things alone...  
